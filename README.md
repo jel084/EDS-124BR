@@ -5,6 +5,8 @@ Here are a few of my videos where I teach a beginner programming.
 
 **These are my teaching videos!**
 
+1st Video
 https://youtu.be/mIobO6_GIig
 
+Sequences
 https://youtu.be/pM1kW7kDRpk?si=Z9KhMpiDbXHxw5uv
