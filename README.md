@@ -6,3 +6,5 @@ Here are a few of my videos where I teach a beginner programming.
 **These are my teaching videos!**
 
 https://youtu.be/mIobO6_GIig
+
+https://youtu.be/pM1kW7kDRpk?si=Z9KhMpiDbXHxw5uv
