@@ -19,3 +19,6 @@ https://youtu.be/pOzc7aYrnzQ
 
 Monkey and its Bananas
 https://youtu.be/BLrbU8Sck_Q
+
+Shapes and Variable
+https://youtu.be/Wk1STJMjBOI
