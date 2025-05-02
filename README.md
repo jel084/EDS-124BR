@@ -22,3 +22,6 @@ https://youtu.be/BLrbU8Sck_Q
 
 Shapes and Variable
 https://youtu.be/Wk1STJMjBOI
+
+Conditional Loops
+https://www.youtube.com/watch?v=YSgVC5EnEaE&ab_channel=J9
