@@ -34,3 +34,6 @@ https://youtu.be/bz78_VsGcIw
 
 Buried Treasure
 https://youtu.be/lNi2ZxR4wlA
+
+Drawing a Picture
+https://youtu.be/VH9J9Om6KVM
